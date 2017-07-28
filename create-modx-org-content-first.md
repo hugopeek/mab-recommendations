@@ -16,7 +16,7 @@ There are a couple of desired outcomes here:
 - Put the emphasis on the job people are trying to get done
 - Create a modx.org that reflects the voice of the entire community
 
-I will expand on these points in the Recommendation section.
+I will expand on these points in the Recommendation section below.
 
 ## Relevant Recommendations
 
@@ -24,15 +24,13 @@ https://github.com/modxcms/mab-recommendations/blob/master/08-modx-org-website.m
 
 ## Recommendation
 
-My recommendation is to shift to a more circular design process for modx.org, that starts with creating, structuring, questioning and prioritizing content.
-
-
+My recommendation is to shift to a design process for modx.org that starts with content. This means: creating, structuring, questioning and prioritizing content first, then prototype it to see how it comes out and interacts, and only apply the design layer at the very end, before it gets published. This will be a circular, iterative process, meaning we can continuously repeat these steps to improve existing content after receiving feedback. Or to expand upon it by adding information / functionality or additional layers of design. I'll try to outline the main benefits of this method below.
 
 ### Go live soon
 
 There is a need for the MODX community to be properly represented and backed by a decent community website. I won't go into that too much because the MAB has already recognized that, but I do feel that there's some urgency behind this need. I've heard several community members mention that they're getting comments on the new modx.com (myself included) and that they don't know where to point to when trying to convince potential clients to choose MODX.
 
-So in my opinion: as soon as we have something worthy of publishing, we should be able to publish it. In SF unicorn slang, this would be called an MVP (minimum viable product). I'm not a big supporter of the whole "move fast and break things" mentality surrounding it, but in today's fast moving world the MVP concept definitely has its merits. We are falling behind now on other platform offerings. While drafting these thoughts, I stumbled on the Craft CMS project again, and their [homepage](https://craftcms.com/) had me moving around in my seat with a slightly elevated heart rate for a good couple of minutes. Their opening heading is even "Put your content first." That literally says it all. The good news is that all the things Craft does well can also be done with MODX, and we've been doing it for quite a while longer even. We provide all the benefits, we only need to concentrate that into effective, high quality content still. Sooner, rather than later. Which brings me to the next point:
+So in my opinion: as soon as we have something worthy of publishing, we should be able to publish it. In SF unicorn slang, this would be called an MVP (minimum viable product). I'm not a big supporter of the whole "move fast and break things" mentality surrounding it, but in today's fast moving world the MVP concept of getting your v1.0 online quickly and then continuously improve on it definitely has its merits. I feel we are falling behind now on what other platform are offering. While drafting these thoughts, I stumbled on the Craft CMS project again, and their current [homepage](https://craftcms.com/) had me moving around in my seat with a slightly elevated heart rate for a good couple of minutes. Their opening heading is "Put your content first." That literally says what I'm trying to say here. The good news is that all the things Craft does well can also be done with MODX, and we've been doing it for quite a while longer even. We provide all the benefits, we only need to concentrate that into effective, high quality content still. Sooner, rather than later. Which brings me to the next point:
 
 ### Put the emphasis on the job people are trying to get done
 
@@ -42,7 +40,7 @@ I don't know if you're familiar with jobs-to-be-done.. The basic premise is that
 >
 > [source](https://www.intercom.com/books/jobs-to-be-done#whats-inside)
 
-This methodology originaly emerged in traditional product marketing, but its being applied to software development now too, with Intercom being a big advocate of that. I can highly recommend anyone to [watch the video](https://youtu.be/k0NRo3yLqxM) or read the [ebook](https://www.intercom.com/books/jobs-to-be-done).
+This methodology originaly emerged in traditional product marketing, but its being applied to software development now too, with Intercom being a big advocate of that. I can highly recommend anyone to [watch this video](https://youtu.be/k0NRo3yLqxM) or read this [ebook](https://www.intercom.com/books/jobs-to-be-done).
 
 And I feel we need to apply this to modx.org too. We need to identify what problems (potential) MODX users are trying to solve and drill down into the deeper motivations behing these questions. Why is it a problem for them? And what are they trying to accomplish?
 
@@ -68,29 +66,29 @@ After that, there's no further reference to the content until:
 > - Wireframing & Screendesign
 > - Templating & Integration
 
-We have defined rules for accepting new content (which is good), Now, please forgive me if I sound rude or start stepping on any toes, but this is where the content first approach starts swimming against the stream a little bit. In the above model, we basically: define our specifications, start wireframing and designing something for those specs, and on agreement we integrate this into the CMS. Which I assume in this case, will be MODX, and I also assume that adding the content will be next..?
+It refers to defining rules for accepting new content (which is good), but it doesn't say anything about any actual content just yet. Now, please forgive me if I sound rude or start stepping on any toes, but this is where the content first approach starts swimming against the stream a little bit. In the above model, we basically say: define our specifications, start wireframing and designing something for those specs, and on agreement we integrate this into the CMS. Which I assume in this case, will be MODX, and I also assume that adding the content will be next..?
 
 #### Content first
 
-The problem with this model is that content is often being treated as an afterthought; something that will figure itself out when the time comes. By Toutatis, it will not. Why do we leave the (arguably) most important part of a project to the very end? I've been exploring this topic for a few years now and I'm seeing this pattern over and over again. A project is treated as something that needs to go from A to Z, with the C for Content being guestimated and interpolated along the way (dummy content is the ultimate embodyment of this). This might work fine for smaller websites or redesigns, but it will get you in trouble in projects that require strategic content. The result is often: content missing the mark or proving to be difficult to implement within an already finished structure and design. Let's imagine for example, that we are all excited about this job-to-be-done thing mentioned above and we want to apply that to our content. But we do it _after_ going through the whole design and development phase.. What if the jobs-to-be-done approach opens our eyes to a completely different way of communicating? One that would in turn lead to a different content structure and design?
+The problem with this model is that content is often being treated as an afterthought; something that will figure itself out when the time comes. By Toutatis, it will not. Why do we leave the (arguably) most important part of a project to the very end? I've been exploring this topic for a few years now and I'm seeing this pattern over and over again. A project is treated as something that needs to go from A to Z, with the C for Content being guestimated and interpolated along the way (dummy content is the ultimate embodyment of this). This might work fine for small, predictable websites or redesigns, but it will get you in trouble in projects that require strategic content. The result is often: content missing the mark or proving to be difficult to implement within an already finished structure and design. Let's imagine for example, that we are all excited about this job-to-be-done thing mentioned above and we want to apply that to our content. But we do it _after_ going through the whole design and development phase.. What if the jobs-to-be-done approach opens our eyes to a completely different way of communicating? One that would in turn lead to a different content structure and design altogether?
 
-This pattern is often referred to as the "waterfall model", which represents a linear flow from start to finish. It may not manifestate itself as dramatically as described above, but unless you have some very "watertight" specifications at the start of a project, issues will appear in various little ways. Ideas come up, minds get changed, that's how it goes. I'm working on creating some content to publish on my own website about this topic too at the moment and made these graphics to explain it a bit more visually:
+This pattern is often referred to as the "waterfall model", which represents a linear flow from start to finish. It may not manifestate itself as dramatically as described above (with a complete redesign), but unless you have some very "watertight" specifications at the start of a project, issues will appear in various little ways. Ideas come up, minds get changed, that's how it goes. And the longer you wait with adding final content, the higher the chances of your product not being a good fit for that content anymore. I'm working on creating some content about this topic to publish on my own website too at the moment and made these graphics to explain it a bit more visually:
 
 ![Waterfall model to content first](./assets/img/waterfall-to-content-first.png) 
 
 What a content first approach essentially proposes, is to start with content (obviously) and then move through the phases of structuring it, prototyping it and _only in the end_ designing it to be ready for publication. This is a **circular process**, which is based on available budget and time and can be repeated / expanded upon in further iterations if needed.
 
-The result: design that fits the content, not the other way around. And faster publications, sometimes.. Because that also depends on how easy your team / client adapts to this approach. 
+The result: design that fits the content, not the other way around. And if you're lucky: faster publications.. Because that also depends on how easy your team / client can adapt to this approach. 
 
-Is it easy? No. I've had some heated arguments with clients, project managers and designers (especially Photoshop oriented ones). And not all the projects I worked on this way went as smoothly as I'm picturing it now in theory. But they all worked _out_. Especially if the client or content editor really developed a good feel for this concept, things started to gain momentum very quickly. I was surprised by how inventive and creative the editors could be, and even humbled sometimes by how much trust they put in me / us that this was the way to go, even though they had no idea of the final outcome yet and things seemed to be a complete mess still at that point. One editor for example, couldn't find a way to make something output all the required data. "I wrote it all down instead and made it blue, so you can add it later". This simple consideration turned out to work perfectly, and led me to build a status grid, in which we could keep track of all the progress per resource.
+Is it easy? No. I've had some heated arguments with clients, project managers and designers (especially Photoshop oriented ones) in content first projects I worked on. And not all of these projects went as smoothly as I'm picturing it now in theory. But they all worked out in the end. Especially if the client or content editor really developed a good feel for this concept, things started to gain momentum very quickly. I was surprised by how inventive and creative the editors could be, and even humbled sometimes by how much trust they put in me / us that this was the way to go, even though they had no idea of the final outcome yet and things seemed to be a complete mess still at that point. One editor for example, couldn't find a way to make something output all the required data. "I wrote it all down instead and made it blue, so you can add it later". This simple consideration turned out to work perfectly, and led me to build a status grid, in which we could keep track of all the progress per resource.
 
-OK, I feel another bookwork coming, l'll move on now. But it works, trust me ;)
+OK, I feel another bookwork coming, so I'll move on now. But it works, trust me ;)
 
 ### Create a modx.org that reflects the voice of the entire community
 
 This starts with getting feedback from the community early on. We then need to be able to implement that feedback quickly in the next deployment cycle, so contributors are encouraged to keep contributing and in turn get other member excited to do the same. It should be easy for anyone to add showcase sites, tips and tricks, how-to guides, etc to modx.org, by providing clear templates and contributing guides.
 
-That's not directly related to the content first recommendation anymore, so I'll save that for a different draft.
+This may not directly related to the content first recommendation anymore, so I'll save that for a different draft. (Yes, there will be more..)
 
 ---
 
@@ -106,6 +104,6 @@ A few question that come to mind now for the modx.org working group:
 And to anyone reading:
 
 - If someone would ask you: what job is your client hiring MODX for? And what job are _you_ hiring MODX for? What would you answer?
-- Any content strategists / content marketeers, information architects or other types of content wranglers in the house?
+- Any content strategists / content marketeers, information architects or other types of content wranglers and enthousiasts in the house?
 
 And I'm reading from the Recommendations process doc that I need a member of the MAB to sponsor this recommendation, so... Anyone sharing my feelings that good content should be at the center (and the start) of a new modx.org too, and wants to sponsor this recommendation?
