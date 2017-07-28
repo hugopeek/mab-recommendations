@@ -39,6 +39,7 @@ So in my opinion: as soon as we have something worthy of publishing, we should b
 I don't know if you're familiar with jobs-to-be-done.. The basic premise is that:
 
 >People buy products and services to get a “job” done. The key to success is understanding the real job customers are using your product for.
+>
 > [source](https://www.intercom.com/books/jobs-to-be-done#whats-inside)
 
 This methodology originaly emerged in traditional product marketing, but its being applied to software development now too, with Intercom being a big advocate of that. I can highly recommend anyone to [watch the video](https://youtu.be/k0NRo3yLqxM) or read the [ebook](https://www.intercom.com/books/jobs-to-be-done).
@@ -75,7 +76,7 @@ The problem with this model is that content is often being treated as an afterth
 
 This pattern is often referred to as the "waterfall model", which represents a linear flow from start to finish. It may not manifestate itself as dramatically as described above, but unless you have some very "watertight" specifications at the start of a project, issues will appear in various little ways. Ideas come up, minds get changed, that's how it goes. I'm working on creating some content to publish on my own website about this topic too at the moment and made these graphics to explain it a bit more visually:
 
-![Waterfall model to content first](./waterfall-to-content-first.png) 
+![Waterfall model to content first](./assets/img/waterfall-to-content-first.png) 
 
 What a content first approach essentially proposes, is to start with content (obviously) and then move through the phases of structuring it, prototyping it and _only in the end_ designing it to be ready for publication. This is a **circular process**, which is based on available budget and time and can be repeated / expanded upon in further iterations if needed.
 
